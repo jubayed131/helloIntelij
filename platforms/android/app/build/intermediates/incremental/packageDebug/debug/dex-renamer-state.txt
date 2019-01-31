@@ -1,0 +1,4 @@
+#Thu Jan 31 16:05:14 CET 2019
+base.0=C\:\\Users\\Jubayed\\IdeaProjects\\helloIntelij\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
